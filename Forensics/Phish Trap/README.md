@@ -26,7 +26,7 @@ You also can see the code by going to **`Developer**` > **`Visual Basic`** to op
 
 The VBA code is obfuscated and maybe hard to interpret. You can ask ChatGPT to rename those variables and function names and explain what the script does. 
 
-```visual-basic
+```vba
 Sub MkX7h29hLgB9wKvJ4pT6Zt()
     Dim Gr9Rj5TsY3Np4KwL8Xr2Fh As Variant
     Dim Az5Qf9Bl6MvTp3XuWoJd1Sg As String
