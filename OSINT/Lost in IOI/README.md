@@ -8,7 +8,7 @@ Your friend is totally lost inside IOI City Mall Putrajaya since it’s her firs
 
 You were given a screenshot of a chat between 2 persons.
 
-![image](https://github.com/user-attachments/assets/f2ecc93d-d969-494e-90ab-2296485f742d)
+![image](https://github.com/user-attachments/assets/4acc4308-d779-429e-a4a1-9cf32d605d26)
 
 We need to know where the last location of Syahirah, there are several information we can extract: 
 
