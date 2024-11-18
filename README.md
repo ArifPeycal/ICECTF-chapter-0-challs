@@ -12,7 +12,7 @@
 ## Top 10 Teams
 ![Top 10 Teams](https://github.com/user-attachments/assets/627ac06b-7f96-4373-8a46-4d44b343ed86)
 
-![image](https://github.com/user-attachments/assets/dd0a3cd9-f7db-4ecc-8108-473779539ae3)
+<!-- ![image](https://github.com/user-attachments/assets/dd0a3cd9-f7db-4ecc-8108-473779539ae3) -->
 
 ## Forensics
 
